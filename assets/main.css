@@ -1,0 +1,14 @@
+h1 {
+    color: blueviolet;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+
+h2 {
+    color: chocolate;
+    text-decoration: teal overline;
+}
+
+.text-decoration {
+    text-decoration: teal underline;
+}
