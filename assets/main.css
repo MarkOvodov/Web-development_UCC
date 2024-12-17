@@ -12,3 +12,11 @@ h2 {
 .text-decoration {
     text-decoration: teal underline;
 }
+
+.vib {
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 5px;
+    text-align: center;
+}
